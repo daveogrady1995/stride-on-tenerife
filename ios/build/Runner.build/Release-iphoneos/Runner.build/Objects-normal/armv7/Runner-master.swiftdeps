@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "da6729be7d20477b23eddadb9b32f0cc"
+build_time: [1632964704, 278562000]
+inputs:
+  "/Users/David/Documents/Projects/stride-on-tenerife/ios/Runner/AppDelegate.swift": [9223372036, 854775807]

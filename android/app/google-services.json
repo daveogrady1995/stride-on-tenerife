@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "730428124266",
+    "project_id": "strideontenerife",
+    "storage_bucket": "strideontenerife.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730428124266:android:86899818321858133eae13",
+        "android_client_info": {
+          "package_name": "com.example.masterPiece"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730428124266-l1iubm56f8o5sl3v1p25vitp8di5fab3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRKJXNq1Lt4sWeNuyrl_-B_dJ9NwY3ZEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730428124266-l1iubm56f8o5sl3v1p25vitp8di5fab3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "730428124266-ckf8kfmf68t2gis60lgjt6ipom35mi9b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.masterPiece"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
